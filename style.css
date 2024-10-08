@@ -14,3 +14,7 @@ header{
     background-color: rgb(134, 150, 206);
     margin: 20px 10px;
 }
+
+.cartao__conteudo:hover{
+    transform: scale(1.00);
+}
