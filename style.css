@@ -12,4 +12,5 @@ header{
     box-shadow: 0 4px 6px rgb(4, 16, 96);
     transition: transform 0.2s;
     background-color: rgb(134, 150, 206);
+    margin: 20px 10px;
 }
