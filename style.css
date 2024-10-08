@@ -4,3 +4,12 @@ header{
     font-size: 1.4vw;
     padding: 10px;
 }
+
+.cartao__conteudo{
+    padding: 20px;
+    border: 1px solid blue;
+    border-radius: 2px;
+    box-shadow: 0 4px 6px rgb(4, 16, 96);
+    transition: transform 0.2s;
+    background-color: rgb(134, 150, 206);
+}
