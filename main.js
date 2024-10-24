@@ -1,4 +1,4 @@
-function motraResposta (card){
+function mostraResposta (card){
     const resposta = card.querySelector('.cartao__conteudo__resposta');
 
     if(resposta.style.display === 'none'){
