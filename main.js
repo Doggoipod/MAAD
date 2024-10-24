@@ -1,9 +1,10 @@
-function motraResposta (cartao__conteudo){
-    const reposta = cartao__conteudo.querySelector('cartao__conteudo');
-    if(resposta.style == 'none'){
-        resposta.style == 'block'
+function motraResposta (card){
+    const reposta = card.querySelector('cartao__conteudo__resposta');
+
+    if(resposta.style.display == 'none'){
+        resposta.style.display == 'block'
     }   
     else{
-        resposta.style == 'none'
+        resposta.style.display == 'none'
     }
 }
